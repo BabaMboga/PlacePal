@@ -46,4 +46,4 @@ const SearchFilters = () => {
   )
 }
 
-export default SearchFilters
+export default SearchFilters;

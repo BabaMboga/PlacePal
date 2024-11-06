@@ -8,4 +8,4 @@ const AddPropertyButton = () => {
   )
 }
 
-export default AddPropertyButton
+export default AddPropertyButton;
