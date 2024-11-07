@@ -6,7 +6,8 @@ const PropertyListItem = () => {
     <div className='cursor-pointer'>
         <div className="overflow-hidden aspect-square rounded-xl">
             <Image
-
+                fill
+                src="/placepal-images/"
             />
         </div>
     </div>
