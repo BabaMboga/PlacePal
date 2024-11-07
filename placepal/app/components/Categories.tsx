@@ -11,6 +11,38 @@ const Categories = () => {
                 width={20}
                 height={20}
             />
+
+            <span className='text-xs'>Beach</span>
+        </div>
+        <div className="pb-4 flex flex-col items-center space-y-2 border-b-2 border-white opacity-60 hover:opacity-100">
+            <Image
+                src="/sun-umbrella.png"
+                alt="Category - Beach" 
+                width={20}
+                height={20}
+            />
+
+            <span className='text-xs'>Villas</span>
+        </div>
+        <div className="pb-4 flex flex-col items-center space-y-2 border-b-2 border-white opacity-60 hover:opacity-100">
+            <Image
+                src="/sun-umbrella.png"
+                alt="Category - Beach" 
+                width={20}
+                height={20}
+            />
+
+            <span className='text-xs'>Cabins</span>
+        </div>
+        <div className="pb-4 flex flex-col items-center space-y-2 border-b-2 border-white opacity-60 hover:opacity-100">
+            <Image
+                src="/sun-umbrella.png"
+                alt="Category - Beach" 
+                width={20}
+                height={20}
+            />
+
+            <span className='text-xs'>Tiny home</span>
         </div>
     </div>
   )
