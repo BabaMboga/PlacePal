@@ -16,8 +16,8 @@ const Categories = () => {
         </div>
         <div className="pb-4 flex flex-col items-center space-y-2 border-b-2 border-white opacity-60 hover:opacity-100">
             <Image
-                src="/sun-umbrella.png"
-                alt="Category - Beach" 
+                src="/villa-icon.png"
+                alt="Category - Villas" 
                 width={20}
                 height={20}
             />
@@ -26,8 +26,8 @@ const Categories = () => {
         </div>
         <div className="pb-4 flex flex-col items-center space-y-2 border-b-2 border-white opacity-60 hover:opacity-100">
             <Image
-                src="/sun-umbrella.png"
-                alt="Category - Beach" 
+                src="/cabin-icon.png"
+                alt="Category - Cabins" 
                 width={20}
                 height={20}
             />
@@ -36,8 +36,8 @@ const Categories = () => {
         </div>
         <div className="pb-4 flex flex-col items-center space-y-2 border-b-2 border-white opacity-60 hover:opacity-100">
             <Image
-                src="/sun-umbrella.png"
-                alt="Category - Beach" 
+                src="/tiny-house-icon.png"
+                alt="Category - Tiny home" 
                 width={20}
                 height={20}
             />
